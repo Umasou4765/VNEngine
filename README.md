@@ -4,6 +4,11 @@
 ![SDL3](https://img.shields.io/badge/SDL-3.0-green.svg)
 ![Lua](https://img.shields.io/badge/Lua-Scripting-purple.svg)
 
+> ⚠️ **Project Status: Work in Progress (WIP) / Prototype**
+> 
+> Please note that this is a personal passion project and is currently a **half-completed prototype / work-in-progress**. While the core engine architecture, Lua coroutine integration, asset manager, and rendering pipeline are fully functional, some edge-case features and extended gameplay systems are still under development.
+> 
+
 **VNEngine** is a personal passion project—a lightweight, high-performance Visual Novel and 2D Adventure Game engine built from scratch using **C++** and **SDL3**. It features a robust Lua-based coroutine scripting system, asynchronous asset management, and a custom animation tweening pipeline.
 
 This repository serves as a portfolio showcase of my self-taught journey in system-level programming, game engine architecture, and modern **AI-augmented software engineering workflows**.
